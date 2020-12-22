@@ -80,6 +80,11 @@ main {
     color: #000;
 }
 
+.news-box a:hover {
+    background-color: #D0D3D4;
+    text-decoration: underline;
+}
+
 footer {
     width: 100%;
     background-color: #acacac;
