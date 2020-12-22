@@ -79,3 +79,15 @@ main {
     font-weight: 700;
     color: #000;
 }
+
+footer {
+    width: 100%;
+    background-color: #acacac;
+    text-align: center;
+}
+
+footer h3 {
+    margin: 0;
+    padding: 1.5em 0;
+    font-weight: 300;
+}
