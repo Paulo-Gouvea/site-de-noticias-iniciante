@@ -109,6 +109,8 @@ footer h3 {
     }
 }
 
+/* TEM QUE COLOCAR STYLES PARA TELAS DE 1440px E 4K*/
+
 @media (min-width:1024px){
     header a {
         font-size: 1.6em;
