@@ -108,3 +108,31 @@ footer h3 {
         margin-left: 2em;
     }
 }
+
+@media (min-width:1024px){
+    header a {
+        font-size: 1.6em;
+    }
+
+    #search {
+        padding: 0.5em 1.5em;
+    }
+
+    main {
+        flex-direction: row;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+
+    .news-box {
+        width: 30%;
+    }
+
+    .news-box:last-child {
+        margin-bottom: 2em;
+    }
+
+    footer {
+        font-size: 1.5em;
+    }
+}
